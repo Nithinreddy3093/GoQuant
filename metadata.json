@@ -1,0 +1,5 @@
+{
+  "name": "GoQuant Vault Manager",
+  "description": "A high-performance decentralized collateral vault management dashboard for GoQuant perpetual futures exchange.",
+  "requestFramePermissions": []
+}
